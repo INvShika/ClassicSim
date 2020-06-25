@@ -247,7 +247,7 @@
     </melee_weapon>
 
     <melee_weapon id="21242" phase="5">
-        <info name="Blessed Qiraji War Axe" type="AXE" slot="1H" unique="yes" req_lvl="60" item_lvl="79" quality="EPIC" boe="no" icon="Inv_axe_26.png"/>
+        <info name="Blessed Qiraji War Axe" type="AXE" slot="1H" unique="no" req_lvl="60" item_lvl="79" quality="EPIC" boe="no" icon="Inv_axe_26.png"/>
         <dmg_range min="110" max="205" speed="2.6"/>
         <stats>
             <stat type="ATTACK_POWER" value="14"/>
